@@ -1,0 +1,47 @@
+//COSA INSERIRE
+
+//PROGETTI
+
+-AR
+.Pangea x x
+.Visual keylogger x x
+
+-VIDEO
+.Vans x x
+.Mendrisio 360 x x
+.Flash news x x
+.Lugano 360 x x
+
+-WEBSITE
+.Troolling.com x x
+.Rifotografia x x
+
+-INTERFACE DESIGN
+.Roller Skater x x
+.Museo dei fossili x x
+
+-BRAND IDENTITY
+.Limonuisa x x
+
+-ANIMATION
+.Pizza x x
+.Comunicazione visiva x x
+
+-FOTOGRAFIA
+.Selezione di scatti
+ /collegamento a sito esterno
+
+ 01.Pangea .ar
+ 02.Vans .video
+ 03.Mendrisio 360 .video
+ 04.Troolling.com .website
+ 05.Roller skater .interface
+ 06.Pizza .animazioni
+ 07.Visual keylogger .ar
+ 08.Flash news .video 
+ 09.Limonuisa .logo
+ 10.Museo dei fossili .interface
+ 11.Comunicazione visiva .animazioni
+ 12.Rifotografia .website
+ 13.Lugano 360 .video
+ 14.Foto .fotografia
